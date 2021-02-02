@@ -1,6 +1,28 @@
 # facebook_ui_flutter
 
-A new Flutter project.
+Facebook home Page UI with flutter
+
+
+## important concept
+* responsive ui
+* floating app bar within customScrollView
+* ShaderMask
+* ClipRRect widget
+
+
+## screenshots
+### Mobile
+<p>
+  <img src="github_images/mobile/fb1.jpg" width="200" height="400">
+  <img src="github_images/mobile/fb2.jpg" width="200" height="400">
+</p>
+<br>
+
+### web
+<p>
+  <img src="github_images/web/fb1.JPG">
+  <img src="github_images/web/fb2.JPG">
+</p>
 
 ## Getting Started
 
